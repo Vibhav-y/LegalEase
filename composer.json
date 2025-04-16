@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "tecnickcom/tcpdf": "^6.6",
+        "phpoffice/phpword": "^0.18.3"
+    }
+} 
